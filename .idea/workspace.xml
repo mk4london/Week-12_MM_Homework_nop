@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4987a18e-7d8a-4c07-808f-200dba29f845" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nop_Commerce_Week_12_home_Work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week12 _MM _HomeWork_nop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utility/Utility.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1suHULfqtuiJWe8Q3yKhi4re1Lo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Homework/Git-practice" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishal\IdeaProjects\nop_Commerce_Week_!2_home_Work\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ElectronicsTest">
+    <configuration name="ElectronicsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week12 _MM _HomeWork_nop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="electronics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="electronics" />
+      <option name="MAIN_CLASS_NAME" value="electronics.ElectronicsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectronicsTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week12 _MM _HomeWork_nop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="electronics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="electronics" />
+      <option name="MAIN_CLASS_NAME" value="electronics.ElectronicsTest" />
+      <option name="METHOD_NAME" value="verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Suite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week12 _MM _HomeWork_nop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="computer" />
+      <option name="MAIN_CLASS_NAME" value="computer.Test_Suite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Suite.verify_Product_Added_To_ShoppingCart_SuccessFully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week12 _MM _HomeWork_nop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="computer" />
+      <option name="MAIN_CLASS_NAME" value="computer.Test_Suite" />
+      <option name="METHOD_NAME" value="verify_Product_Added_To_ShoppingCart_SuccessFully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Top_Menu_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week12 _MM _HomeWork_nop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home_Page.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home_Page" />
+      <option name="MAIN_CLASS_NAME" value="home_Page.Top_Menu_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElectronicsTest" />
+        <item itemvalue="JUnit.Test_Suite" />
+        <item itemvalue="JUnit.ElectronicsTest.verifyThatTheProductAddedSuccessfullyAndPlaceOrderSuccessfully" />
+        <item itemvalue="JUnit.Test_Suite.verify_Product_Added_To_ShoppingCart_SuccessFully" />
+        <item itemvalue="JUnit.Top_Menu_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4987a18e-7d8a-4c07-808f-200dba29f845" name="Default Changelist" comment="" />
+      <created>1621715572575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621715572575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
